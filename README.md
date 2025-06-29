@@ -1,4 +1,4 @@
-###ETL Pipeline: Fashion Studio
+### ETL Pipeline: Fashion Studio
 
 📦 Cara menjalankan script ETL Pipeline:
 1. Pastikan semua dependensi sudah terinstal dengan menjalankan:
